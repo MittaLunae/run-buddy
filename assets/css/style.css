@@ -122,7 +122,6 @@ section {
     text-align: center;
 }
 
-/* remove this entire CSS rule */
 .intro h2 {
     font-size: 55px;
     color: #024e76;
@@ -130,7 +129,6 @@ section {
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
     border-color: #fce138;
-    /* add this alongside you other declasations */
     display: inline-block;
 }
 
@@ -139,7 +137,6 @@ section {
     color: #39a6b2;
     width: 80%;
     font-size: 20px;
-    /* add this alongside your other declarations */
     margin: 0 auto;
 }
 
@@ -148,7 +145,6 @@ section {
     background: #fce138;
 }
 
-/* and this one */
 .steps h2 {
     font-size: 55px;
     color: #024e76;
